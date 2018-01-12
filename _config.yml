@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "A Jekyll Resume Template"
+description: "resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
