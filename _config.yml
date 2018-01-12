@@ -1,6 +1,7 @@
 # Site settings
+
 title: "Cianhwang Resume Template"
-description: "A resume template for Cianhwang"
+description: "resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
